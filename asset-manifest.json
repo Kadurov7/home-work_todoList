@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/home-work_todoList/static/css/main.0507a5f2.css",
+    "main.js": "/home-work_todoList/static/js/main.46731f6a.js",
+    "index.html": "/home-work_todoList/index.html",
+    "main.0507a5f2.css.map": "/home-work_todoList/static/css/main.0507a5f2.css.map",
+    "main.46731f6a.js.map": "/home-work_todoList/static/js/main.46731f6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0507a5f2.css",
+    "static/js/main.46731f6a.js"
+  ]
+}
